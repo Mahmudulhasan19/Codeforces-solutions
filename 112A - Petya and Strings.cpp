@@ -6,7 +6,7 @@ int main()
     cin>>s1>>s2;
     for(int i=0;i<s1.size();i++)
     {
-        if(s1[i]<=90)git
+        if(s1[i]<=90)
         {
             s1[i]+=32;
         }
