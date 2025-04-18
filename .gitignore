@@ -25,6 +25,8 @@ Thumbs.db
 *~
 *.bak
 
+
+
 # CMake and build folders (if using)
 CMakeFiles/
 CMakeCache.txt
